@@ -4067,7 +4067,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top-right-radius: 0;
   border-top-left-radius: 0;
 }
-.navbar {
+.nav navbar-nav navbar-right" {
   position: relative;
   min-height: 50px;
   margin-bottom: 0px;
@@ -4234,7 +4234,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-top: 10px;
   padding-bottom: 10px;
   line-height: 20px;
-  color: #d6d6d6;
+  color: #a4c2da;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
